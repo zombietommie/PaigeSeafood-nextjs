@@ -8,6 +8,9 @@ export default function Home() {
           <div className="body">
               <h3>Body of Paige Seafood</h3>
           </div>
+          <div className="footer">
+              <h3>Footer of Paige Seafood</h3>
+          </div>
       </main>
   );
 }
